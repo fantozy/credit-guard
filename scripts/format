@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker exec -it credit-guard-web black --exclude migrations --exclude env .
