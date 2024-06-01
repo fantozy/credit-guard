@@ -98,6 +98,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+prod.env
 .decrypted~staging.env
 .decrypted~prod.env
 envs/dev.env

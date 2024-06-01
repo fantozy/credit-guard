@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Usage: ./scripts/build
+
+docker build --file credit_guard/docker/Dockerfile --tag cc-guard:cloud .
