@@ -116,3 +116,6 @@ To authenticate, the user is:
 
 - login: admin
 - password: admin
+
+
+![alt text](docs/images/cc_guard_infra.png)
