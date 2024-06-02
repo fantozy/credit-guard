@@ -110,7 +110,9 @@ To showcase the knowledge which I possess, I've deployed the given project on AW
 - RDS - for DBMS, specifically Postgres
 - ERC - for hosting private container image repository
 
-You can visit at http://3.75.134.44:8000/ and to test out the functionality you can login to admin using:
+You can visit [production docs on aws](http://3.75.134.44:8000/swagger/) to test out the API or view the endpoints where you can use DRF browsable API.
+
+To authenticate, the user is:
 
 - login: admin
 - password: admin
